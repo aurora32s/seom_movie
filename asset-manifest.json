@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/seom_movies/static/js/main.0cab1804.js",
-    "index.html": "/seom_movies/index.html",
-    "main.0cab1804.js.map": "/seom_movies/static/js/main.0cab1804.js.map"
+    "main.js": "/seom_movie/static/js/main.0cab1804.js",
+    "index.html": "/seom_movie/index.html",
+    "main.0cab1804.js.map": "/seom_movie/static/js/main.0cab1804.js.map"
   },
   "entrypoints": [
     "static/js/main.0cab1804.js"
